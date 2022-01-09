@@ -16,7 +16,7 @@
 
 O projeto está em desenvolvimento para o curso Robot Framework do Zero to Hero. E contempla os requisitos abaixo:
 
-- [ ] Criação de configurações
+- [x] Criação de configurações
 - [ ] Configuração do Test Setup
 - [ ] Padrão de projeto Adapter
 - [ ] Dividir o projeto de testes
