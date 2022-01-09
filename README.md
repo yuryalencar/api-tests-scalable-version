@@ -98,10 +98,10 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## 😄 Seja um dos contribuidores<br>
 
-Quer fazer parte desse projeto? Clique [AQUI](#-contribuindo-para-esse-all-in-one) e leia como contribuir.
+Quer fazer parte desse projeto? Clique [AQUI](#-contribuindo-com-esse-projeto) e leia como contribuir.
 
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
-[⬆ Voltar ao topo](#all-in-one-testes-de-api-em-um-único-arquivo)<br>
+[⬆ Voltar ao topo](#projeto-escalável-testes-de-api-escaláveis)<br>
