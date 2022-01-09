@@ -1,5 +1,6 @@
 # Robot Ignore Files
 logs
+config.robot
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

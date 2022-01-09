@@ -7,8 +7,9 @@ Documentation         Curso Robot Do Zero to Hero
 Library               Collections
 Library               RequestsLibrary
 
+Resource              ./config/config.robot
+
 *** Variables ***
-${URL}                    https://my-json-server.typicode.com/yuryalencar/fake-api
 ${GET_EMPLOYEE_ID}        1
 ${DELETE_EMPLOYEE_ID}     2
 
